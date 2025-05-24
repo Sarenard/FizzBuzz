@@ -1,0 +1,7 @@
+*
+# Boilerplate
+!Makefile
+!.gitignore
+!*/
+# haskell
+!main.hs
