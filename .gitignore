@@ -3,5 +3,5 @@
 !Makefile
 !.gitignore
 !*/
-# haskell
-!main.hs
+
+!main.*
